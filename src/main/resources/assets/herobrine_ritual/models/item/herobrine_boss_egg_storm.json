@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "herobrine_ritual:item/herobrine_boss_egg_storm"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:book",
+    "minecraft:redstone_torch"
+  ],
+  "result": {
+    "id": "herobrine_ritual:herodex",
+    "count": 1
+  }
+}

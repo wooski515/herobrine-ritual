@@ -1,0 +1,28 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+description='''
+Catch 'em all - Herobrine edition. Beat Herobrines in boss fights and they become your companions.
+10 kinds with their own spawns, rituals and skills. Levels, duels, guarding, mining and hauling jobs.
+Лови Херобринов в бою с боссом — после победы они становятся твоими компаньонами.
+10 видов со своим спавном, ритуалами и умениями. Уровни, дуэли, охрана, добыча и переноска ресурсов.
+'''
+
+[[dependencies.${mod_id}]]
+modId="neoforge"
+type="required"
+versionRange="[${neo_version},)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.${mod_id}]]
+modId="minecraft"
+type="required"
+versionRange="${minecraft_version_range}"
+ordering="NONE"
+side="BOTH"

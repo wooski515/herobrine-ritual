@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "  E",
+    " G ",
+    "S  "
+  ],
+  "key": {
+    "E": "minecraft:ender_pearl",
+    "G": "minecraft:gold_ingot",
+    "S": "minecraft:stick"
+  },
+  "result": {
+    "id": "herobrine_ritual:command_staff",
+    "count": 1
+  }
+}

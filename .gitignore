@@ -1,0 +1,26 @@
+# Gradle
+build/
+.gradle/
+
+# Run directories (dev client/server, gametests)
+run/
+run-data/
+run-gametest/
+runs/
+
+# IDE
+.idea/
+*.iml
+*.ipr
+*.iws
+out/
+.vscode/
+bin/
+.settings/
+.classpath
+.project
+*.launch
+
+# OS
+Thumbs.db
+.DS_Store

@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "misc",
+  "ingredients": [
+    "minecraft:iron_ingot",
+    "minecraft:gold_ingot",
+    "minecraft:diamond",
+    "minecraft:emerald",
+    "minecraft:netherite_ingot"
+  ],
+  "result": {
+    "id": "herobrine_ritual:backpack_upgrade",
+    "count": 1
+  }
+}
